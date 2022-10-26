@@ -22,7 +22,7 @@ int main(){
     cout <<"Luas persegi : " << s * s << endl;
     cin.get(); // mengambil cin
     return 0; // program berhenti
-    // program menghitung luas persegi
+    } // program menghitung luas persegi
 
 ```
 
